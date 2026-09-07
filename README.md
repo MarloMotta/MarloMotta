@@ -1,16 +1,76 @@
-## Hi there 👋
+# Olá! Eu sou Marlo Motta 👋
 
-<!--
-**MarloMotta/MarloMotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Back-end Developer | Python · Django · Java · Spring Boot**
 
-Here are some ideas to get you started:
+Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas pelo SENAI, com foco em desenvolvimento back-end e construção de aplicações web e APIs REST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência prática com **Python, Django, Java, Spring Boot, MySQL e integração com APIs externas**, incluindo soluções com Inteligência Artificial generativa.
+
+## 🚀 Sobre mim
+
+* 🎓 Estudante de Engenharia de Software
+* 💻 Técnico em Desenvolvimento de Sistemas pelo SENAI
+* 🐍 Desenvolvimento back-end com Python e Django
+* ☕ Desenvolvimento de APIs com Java e Spring Boot
+* 🗄️ Experiência com MySQL e modelagem relacional
+* 🤖 Integração de aplicações com Inteligência Artificial e APIs externas
+* 🌎 Experiência em competições nacionais e internacionais de badminton
+
+## 🛠️ Tecnologias
+
+**Back-end**
+
+* Python
+* Django
+* Java
+* Spring Boot
+* APIs REST
+
+**Banco de dados**
+
+* MySQL
+* SQL
+* Modelagem relacional
+
+**Outros**
+
+* Git
+* GitHub
+* HTML
+* CSS
+* Programação Orientada a Objetos
+
+## 📌 Projeto em destaque
+
+### IAprender — Sistema de Gestão de Competências
+
+Aplicação web desenvolvida para acompanhamento de desempenho acadêmico, com diferentes perfis de acesso para alunos e professores.
+
+**Principais recursos:**
+
+* Autenticação e controle de acesso
+* Gerenciamento de turmas, disciplinas e notas
+* Modelagem e integração com banco de dados MySQL
+* APIs e integração com serviços externos
+* Integração com a API do Gemini
+* Geração de conteúdo educacional e simulados personalizados
+* Geração e exportação de documentos em PDF
+* Relatórios e acompanhamento de desempenho
+
+🔗 [Ver projeto no GitHub](https://github.com/MarloMotta/IAprender)
+
+## 📚 Atualmente estudando
+
+Aprofundando conhecimentos em:
+
+* Java e Spring Boot
+* Desenvolvimento de APIs REST
+* Arquitetura de aplicações back-end
+* Banco de dados e modelagem
+* Integração com Inteligência Artificial
+
+## 📫 Contato
+
+* LinkedIn: https://linkedin.com/in/marlo-motta-baab89364
+* GitHub: https://github.com/MarloMotta
+* E-mail: [marlomottamm1@gmail.com](mailto:marlomottamm1@gmail.com)
