@@ -1,10 +1,8 @@
 # Olá! Eu sou Marlo Motta 👋
 
-**Back-end Developer | Python · Django · Java · Spring Boot**
-
 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas pelo SENAI, com foco em desenvolvimento back-end e construção de aplicações web e APIs REST.
 
-Tenho experiência prática com **Python, Django, Java, Spring Boot, MySQL e integração com APIs externas**, incluindo soluções com Inteligência Artificial generativa.
+Tenho experiência prática acadêmica com **Python, Django, Java, Spring Boot, MySQL e integração com APIs externas**, incluindo soluções com Inteligência Artificial generativa.
 
 ## 🚀 Sobre mim
 
@@ -18,27 +16,13 @@ Tenho experiência prática com **Python, Django, Java, Spring Boot, MySQL e int
 
 ## 🛠️ Tecnologias
 
-**Back-end**
+- Python
+- Django
+- MySQL
+- APIs REST
+- Git
+- GitHub
 
-* Python
-* Django
-* Java
-* Spring Boot
-* APIs REST
-
-**Banco de dados**
-
-* MySQL
-* SQL
-* Modelagem relacional
-
-**Outros**
-
-* Git
-* GitHub
-* HTML
-* CSS
-* Programação Orientada a Objetos
 
 ## 📌 Projeto em destaque
 
